@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+.header {
+    padding: 10%;
+    color: rgb(255, 253, 253);
+    height: auto;
+    background-image: url(https://wallpapercave.com/wp/wp2745301.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+h1,p,h3{
+    color: rgb(255, 0, 0);
+}
+h6{
+    color: bisque;
+    text-align: left;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  h4{
+      color: black;
+  }
